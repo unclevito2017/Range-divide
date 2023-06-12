@@ -5,14 +5,14 @@ Enter the starting keyspace range: 800000000000000000000000000000 <br>
 Enter the ending keyspace range: ffffffffffffffffffffffffffffff <br>
 Enter the number of equal divided ranges: 20 <br>
 Key space ranges have been written to 'keyspace_ranges.txt'.  <br>
- output 
+ output <br>
 800000000000000000000000000000:866666666666666666666666666665<br>
 866666666666666666666666666666:8ccccccccccccccccccccccccccccb<br>
 8ccccccccccccccccccccccccccccc:933333333333333333333333333331<br>
 933333333333333333333333333332:999999999999999999999999999997<br>
 999999999999999999999999999998:9ffffffffffffffffffffffffffffd<br>
 9ffffffffffffffffffffffffffffe:a66666666666666666666666666663<br>
-a66666666666666666666666666664:acccccccccccccccccccccccccccc9<b>
+a66666666666666666666666666664:acccccccccccccccccccccccccccc9<br>
 acccccccccccccccccccccccccccca:b3333333333333333333333333332f<br>
 b33333333333333333333333333330:b99999999999999999999999999995<br>
 b99999999999999999999999999996:bffffffffffffffffffffffffffffb<br>
