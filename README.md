@@ -28,4 +28,6 @@ f3333333333333333333333333332c:f99999999999999999999999999991<br>
 f99999999999999999999999999992:fffffffffffffffffffffffffffff7<br>
   
   
-  Donations  bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm
+If this program helps find your hidden treasures : donations<br>
+<b>Bitcoin bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm <br>
+Litecoin ltc1q5qtw6fhuqcarv8ysfv7c52gyyfnys3gzlds5s8 </b>
